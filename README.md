@@ -17,11 +17,11 @@ It is a simple code that works to speed up image loading from a folder with clas
 ![Img3](https://user-images.githubusercontent.com/62042702/216262539-5a004ed5-ff85-457f-8e81-5c9fe53227de.png)
 
 
-4- About 86000 images loaded in 5 seconds.
+4- About 87000 images loaded in 6 seconds.
 
-![Img4](https://user-images.githubusercontent.com/62042702/216262559-e25074d0-2430-438c-bd7d-3c606768e5c2.png)
+![newImg1](https://user-images.githubusercontent.com/62042702/216375039-bf5ac9f8-0850-410b-b6c7-23b8d4f305ac.png)
 
 
 5- Final results
 
-![Img5](https://user-images.githubusercontent.com/62042702/216262555-7f940477-0e6f-4e5f-87bb-5ef1030ecc56.png)
+![NewImage2](https://user-images.githubusercontent.com/62042702/216375034-db27d888-db55-489f-996c-8555323b1f03.png)
